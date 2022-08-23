@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 - [My Blog](https://blog.naver.com/dbys34)
+
 
 <!--
 **YongJunYou/YongJunYou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
